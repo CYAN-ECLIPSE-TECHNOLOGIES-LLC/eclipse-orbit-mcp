@@ -1,0 +1,8 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/orbit",
+ "title": "Eclipse Orbit MCP",
+ "description": "The HubSpot wrap: the vendor's server, under policy \u2014 classified tools, approval gates, masking",
+ "version": "0.1.0",
+ "websiteUrl": "https://eclipsebazaar.com"
+}
